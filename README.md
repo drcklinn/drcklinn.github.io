@@ -1,2 +1,2 @@
-# [Dr CKLinn](https://drcklinn.github.io/)
+# [@drcklinn in Github](https://drcklinn.github.io/)
 
