@@ -30,3 +30,8 @@ content:
         fields:
           - { name: url, label: URL, type: image }
       - { name: body, label: Body, type: rich-text }
+  - name: metadata
+    label: Metadata
+    type: file
+    path: _data/metadata.js
+    format: code
