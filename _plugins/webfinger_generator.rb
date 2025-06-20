@@ -27,7 +27,7 @@
 # See the README for more details.
 #
 Author: Drcklinn
-Site: https://drcklinn.github.io
+Site: https://drcklinn.5apps.com
 Plugin Source: https://github.com/konklone/jekyll-webfinger
 Plugin License: MIT
 
