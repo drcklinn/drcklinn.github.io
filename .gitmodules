@@ -1,0 +1,3 @@
+[submodule "5apps"]
+	path = 5apps
+	url = https://github.com/drcklinn/5apps.git
